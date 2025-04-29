@@ -85,4 +85,4 @@ INSERT INTO `market_offers` (`player_id`, `sale`, `itemtype`, `amount`, `created
 (1, 1, 37059, 999999, UNIX_TIMESTAMP(), 1, 22, 0),
 (1, 1, 39233, 999999, UNIX_TIMESTAMP(), 1, 22, 0),
 (1, 1, 39234, 999999, UNIX_TIMESTAMP(), 1, 22, 0),
-(1, 1, 39235, 999999, UNIX_TIMESTAMP(), 1, 22, 0),
+(1, 1, 39235, 999999, UNIX_TIMESTAMP(), 1, 22, 0);
